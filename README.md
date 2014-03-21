@@ -1,3 +1,5 @@
+NegativeInfinity was here
+
 The ReiserFS APpreciation Society
 
 Jeopardy
