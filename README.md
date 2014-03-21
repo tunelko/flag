@@ -1,4 +1,4 @@
-NegativeInfinity was here
+NegativeInfinity was here!
 
 The ReiserFS APpreciation Society
 
